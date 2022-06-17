@@ -1,0 +1,45 @@
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.exe.config
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.exe
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.pdb
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.AssemblyReference.cache
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form1.resources
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Properties.Resources.resources
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.GenerateResource.cache
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.CoreCompileInputs.cache
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.exe
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.pdb
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form2.resources
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form3.resources
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form4.resources
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form5.resources
+C:\Users\TR-HALOMAN06\source\repos\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form6.resources
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.exe.config
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.exe
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.pdb
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.AssemblyReference.cache
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form1.resources
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form2.resources
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form3.resources
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form4.resources
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form5.resources
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form6.resources
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Properties.Resources.resources
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.GenerateResource.cache
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.CoreCompileInputs.cache
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.exe
+C:\Users\TR-HALOMAN06\Desktop\Yeni klasör (3)\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.pdb
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.exe.config
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.exe
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\bin\Debug\mimarideneme3.pdb
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.AssemblyReference.cache
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form1.resources
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form2.resources
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form3.resources
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form4.resources
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form5.resources
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Form6.resources
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.Properties.Resources.resources
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.GenerateResource.cache
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.csproj.CoreCompileInputs.cache
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.exe
+C:\Users\TR-HALOMAN06\Desktop\mimarideneme3\mimarideneme3\obj\Debug\mimarideneme3.pdb
